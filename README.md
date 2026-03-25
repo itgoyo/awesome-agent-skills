@@ -63,6 +63,6 @@ Agent Skills是一个简单、开放的标准格式，用于为AI Agents提供�
 |[https://x.com/op7418/status/2010979152284041401](https://x.com/op7418/status/2010979152284041401)|独一份！带动效的 PPT 生成 Agent！使用教学&创作思路|
 |[https://github.com/JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)|[@宝玉](https://x.com/dotey) 个人Skill工作流|
 |[https://mp.weixin.qq.com/s/74XfeY-QuPLJ582izR2JKw](https://mp.weixin.qq.com/s/74XfeY-QuPLJ582izR2JKw)|只用 Claude Skills，打造专属 AI 伴侣｜附完整教程|
-|||
+|[https://github.com/Digidai/product-manager-skills](https://github.com/Digidai/product-manager-skills)|Senior PM agent skill，覆盖6大知识领域、30+分析框架和32个SaaS指标公式，支持PRD评审、路线图规划、用户发现和指标诊断，适配Claude Code/Codex/Cursor等|
 ## 许可
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。
