@@ -77,6 +77,7 @@
 | [mattpocock/skills](https://github.com/mattpocock/skills) | 32.8k ⭐ | Skills for Real Engineers. Straight from my .claude directory. |
 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 26.9k ⭐ | Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI. |
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 25.2k ⭐ | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+| [Sequenzy/skills](https://github.com/Sequenzy/skills) | 0.0k ⭐ | Agent skills for operating Sequenzy email marketing and transactional/product email workflows. |
 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 24.2k ⭐ | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 19.6k ⭐ | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
 | [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) | 13.2k ⭐ | Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection |
