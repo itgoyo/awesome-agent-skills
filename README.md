@@ -63,6 +63,7 @@
 | [anthropics/skills](https://github.com/anthropics/skills) | Anthropic's official open-source skills repo with production-grade examples |
 | [aitmpl.com/skills](https://www.aitmpl.com/skills) | Another skills aggregation site with categorized browsing and search |
 | [claudemarketplaces.com](https://claudemarketplaces.com/) | Claude-focused skills marketplace for high-quality community skills |
+| [Remote OpenClaw Marketplace](https://www.remoteopenclaw.com/marketplace) | Marketplace and discovery hub for agent workflows, skills, and adjacent ecosystem resources |
 
 ---
 
