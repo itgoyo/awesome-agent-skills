@@ -121,6 +121,7 @@
 | [rohunvora/x-research-skill](https://github.com/rohunvora/x-research-skill) | 1.1k ⭐ | X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings. |
 | [AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw) | 1k ⭐ | Let Skills Evolve Collectively with Agentic Evolver |
 
+| [linkedin-skills](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin) | 28 ⭐ | Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf. |
 ## ⚡ Claude Code Optimization
 
 > CLAUDE.md configs, harness systems, and workflows that make Claude Code smarter and faster.
