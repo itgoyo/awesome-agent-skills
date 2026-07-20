@@ -61,7 +61,6 @@
 | [skillsmp.com](https://skillsmp.com/) | The hottest Agent Skills marketplace, aggregating 60k+ open-source skills from GitHub, updated daily |
 | [agentskills.io](https://agentskills.io/home) | Official Agent Skills standard website with format specs, guides, and best practices |
 | [anthropics/skills](https://github.com/anthropics/skills) | Anthropic's official open-source skills repo with production-grade examples |
-| [aitmpl.com/skills](https://www.aitmpl.com/skills) | Another skills aggregation site with categorized browsing and search |
 | [claudemarketplaces.com](https://claudemarketplaces.com/) | Claude-focused skills marketplace for high-quality community skills |
 
 ---
@@ -120,6 +119,7 @@
 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | 1.1k ⭐ | Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. |
 | [rohunvora/x-research-skill](https://github.com/rohunvora/x-research-skill) | 1.1k ⭐ | X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings. |
 | [AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw) | 1k ⭐ | Let Skills Evolve Collectively with Agentic Evolver |
+| [Xquik-dev/hermes-tweet](https://github.com/Xquik-dev/hermes-tweet) | 18 ⭐ | Native Hermes Agent plugin for X/Twitter workflows: public reads, post inspection, timeline exploration, and explicitly gated tweet actions through Xquik. |
 
 ## ⚡ Claude Code Optimization
 
