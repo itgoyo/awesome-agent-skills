@@ -61,7 +61,6 @@
 | [skillsmp.com](https://skillsmp.com/) | 全网最热 Agent Skills 市场，聚合 GitHub 6万+ 开源技能，每日更新，支持智能搜索与分类浏览 |
 | [agentskills.io](https://agentskills.io/home) | Agent Skills 官方标准官网，提供格式规范、入门指南和最佳实践 |
 | [anthropics/skills](https://github.com/anthropics/skills) | Anthropic 官方开源技能仓库，包含生产级示例（文档处理、设计工具等） |
-| [aitmpl.com/skills](https://www.aitmpl.com/skills) | 技能聚合站，提供分类浏览和搜索，可作为 skillsmp 的补充 |
 | [claudemarketplaces.com](https://claudemarketplaces.com/) | Claude 专用技能市场，聚焦高质量社区技能 |
 
 ---
@@ -120,6 +119,7 @@
 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | 1.1k ⭐ | Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. |
 | [rohunvora/x-research-skill](https://github.com/rohunvora/x-research-skill) | 1.1k ⭐ | X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings. |
 | [AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw) | 1k ⭐ | Let Skills Evolve Collectively with Agentic Evolver |
+| [Xquik-dev/hermes-tweet](https://github.com/Xquik-dev/hermes-tweet) | 18 ⭐ | 原生 Hermes Agent 插件，用于 X/Twitter 工作流：公开读取、帖子检查、时间线探索，以及通过 Xquik 显式开启的发推操作。 |
 
 ## ⚡ Claude Code 优化
 
