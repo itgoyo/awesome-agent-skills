@@ -120,6 +120,7 @@
 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | 1.1k ⭐ | Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. |
 | [rohunvora/x-research-skill](https://github.com/rohunvora/x-research-skill) | 1.1k ⭐ | X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings. |
 | [AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw) | 1k ⭐ | Let Skills Evolve Collectively with Agentic Evolver |
+| [Felixfeng-0820/big-jump](https://github.com/Felixfeng-0820/big-jump) | 1 ⭐ | Turn a vague idea into a verified first release: routes web/API/CLI/data/library/mobile projects, proves each claim with stack-appropriate evidence, protects existing work, and coaches beginners — atomic installer and self-validation included. |
 
 ## ⚡ Claude Code Optimization
 
