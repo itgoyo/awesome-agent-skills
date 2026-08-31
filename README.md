@@ -59,6 +59,7 @@
 |------|-------------|
 | [agent-skills.md](https://agent-skills.md/) | Agent Skills marketplace for browsing, discovering, and downloading structured Agent Skills |
 | [skillsmp.com](https://skillsmp.com/) | The hottest Agent Skills marketplace, aggregating 60k+ open-source skills from GitHub, updated daily |
+| [skillsdirectory.com](https://www.skillsdirectory.com/) | Security-first skills directory — 100k+ skills, each security-scanned and graded A–F with public reports |
 | [agentskills.io](https://agentskills.io/home) | Official Agent Skills standard website with format specs, guides, and best practices |
 | [anthropics/skills](https://github.com/anthropics/skills) | Anthropic's official open-source skills repo with production-grade examples |
 | [aitmpl.com/skills](https://www.aitmpl.com/skills) | Another skills aggregation site with categorized browsing and search |
