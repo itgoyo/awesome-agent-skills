@@ -59,6 +59,7 @@
 |------|------|
 | [agent-skills.md](https://agent-skills.md/) | Agent Skills 市场网站，支持浏览、搜索和下载结构化技能包 |
 | [skillsmp.com](https://skillsmp.com/) | 全网最热 Agent Skills 市场，聚合 GitHub 6万+ 开源技能，每日更新，支持智能搜索与分类浏览 |
+| [skillsdirectory.com](https://www.skillsdirectory.com/) | 安全优先的技能目录 — 10万+ 技能，每个技能均经过静态安全扫描并给出 A–F 评级，附公开安全报告 |
 | [agentskills.io](https://agentskills.io/home) | Agent Skills 官方标准官网，提供格式规范、入门指南和最佳实践 |
 | [anthropics/skills](https://github.com/anthropics/skills) | Anthropic 官方开源技能仓库，包含生产级示例（文档处理、设计工具等） |
 | [aitmpl.com/skills](https://www.aitmpl.com/skills) | 技能聚合站，提供分类浏览和搜索，可作为 skillsmp 的补充 |
