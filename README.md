@@ -147,6 +147,7 @@
 
 | Repository | Stars | Description |
 |-----------|------:|-------------|
+| [damanoreshkan-beep/dream-skill](https://github.com/damanoreshkan-beep/dream-skill) | — | A one-breath awareness primer: work from a higher vantage — no self-imposed ceiling, whole-board vision, truth over position. Plain SKILL.md or one-command plugin |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 48.6k ⭐ | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman |
 | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 19.8k ⭐ | Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition. |
 | [blader/humanizer](https://github.com/blader/humanizer) | 16.1k ⭐ | Claude Code skill that removes signs of AI-generated writing from text |
