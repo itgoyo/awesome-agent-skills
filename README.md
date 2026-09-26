@@ -63,6 +63,7 @@
 | [anthropics/skills](https://github.com/anthropics/skills) | Anthropic's official open-source skills repo with production-grade examples |
 | [aitmpl.com/skills](https://www.aitmpl.com/skills) | Another skills aggregation site with categorized browsing and search |
 | [claudemarketplaces.com](https://claudemarketplaces.com/) | Claude-focused skills marketplace for high-quality community skills |
+| [aident.ai](https://aident.ai) / [Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill) | Aident Loadout — connect any AI agent to 1,000+ apps and 400+ expert Skills through one remote MCP (`https://loadout.aident.ai/mcp`). |
 
 ---
 
