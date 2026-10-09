@@ -262,6 +262,7 @@
 |-----------|------:|-------------|
 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 53.7k ⭐ | A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI. |
 | [santifer/career-ops](https://github.com/santifer/career-ops) | 40.4k ⭐ | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. |
+| [morluto/rea](https://github.com/morluto/rea) | 39.2k ⭐ | Local CLI and MCP tools for shipped binary and JavaScript/Electron analysis with source-linked evidence; includes reverse-engineer-anything instructions and requires your own Hopper, Ghidra, or IDA for deep native analysis. |
 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 36.8k ⭐ | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph |
 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 25.5k ⭐ | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. |
 | [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 15.9k ⭐ | Create beautiful slides on the web using Claude's frontend skills |
