@@ -120,6 +120,11 @@
 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | 1.1k ⭐ | Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. |
 | [rohunvora/x-research-skill](https://github.com/rohunvora/x-research-skill) | 1.1k ⭐ | X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings. |
 | [AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw) | 1k ⭐ | Let Skills Evolve Collectively with Agentic Evolver |
+| [moooai/movie-coupon](https://github.com/moooai/movie-coupon) | 0 ⭐ | Fetches movie ticket coupons from Taopiaopiao and Maoyan, returning claim links and QR codes. |
+| [moooai/obtain-coupons-all-in-one](https://github.com/moooai/obtain-coupons-all-in-one) | 0 ⭐ | All-in-one coupon fetcher covering takeout, travel, movie, and parcel coupons in a single skill. |
+| [moooai/parcel-coupon](https://github.com/moooai/parcel-coupon) | 0 ⭐ | Fetches courier coupons for SF Express, ZTO, YTO, Yunda, STO, and Cainiao, with claim links and QR codes. |
+| [moooai/takeout-coupon](https://github.com/moooai/takeout-coupon) | 1 ⭐ | Fetches food-delivery coupons for Meituan, Ele.me/Taobao Shangou, and JD Waimai — returns promo codes and claim instructions. |
+| [moooai/trip-coupon](https://github.com/moooai/trip-coupon) | 0 ⭐ | Fetches travel coupons: Didi ride-hailing bundles and hotel deals from Meituan, Tongcheng, and Fliggy. |
 
 ## ⚡ Claude Code Optimization
 
