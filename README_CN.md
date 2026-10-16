@@ -120,6 +120,11 @@
 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | 1.1k ⭐ | Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. |
 | [rohunvora/x-research-skill](https://github.com/rohunvora/x-research-skill) | 1.1k ⭐ | X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings. |
 | [AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw) | 1k ⭐ | Let Skills Evolve Collectively with Agentic Evolver |
+| [moooai/movie-coupon](https://github.com/moooai/movie-coupon) | 0 ⭐ | 电影票优惠券 Skill：获取淘票票、猫眼优惠，返回领取链接与二维码 |
+| [moooai/obtain-coupons-all-in-one](https://github.com/moooai/obtain-coupons-all-in-one) | 0 ⭐ | 全家桶优惠券 Skill：外卖、出行、电影、快递一站领取 |
+| [moooai/parcel-coupon](https://github.com/moooai/parcel-coupon) | 0 ⭐ | 快递优惠券 Skill：获取顺丰、中通、圆通、韵达、申通、菜鸟等优惠券 |
+| [moooai/takeout-coupon](https://github.com/moooai/takeout-coupon) | 1 ⭐ | 外卖优惠券 Skill：一键获取美团、饿了么/淘宝闪购、京东外卖红包与隐藏口令 |
+| [moooai/trip-coupon](https://github.com/moooai/trip-coupon) | 0 ⭐ | 出行优惠券 Skill：滴滴出行大礼包、美团/同程/飞猪酒店优惠 |
 
 ## ⚡ Claude Code 优化
 
