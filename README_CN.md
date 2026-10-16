@@ -120,6 +120,7 @@
 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | 1.1k ⭐ | Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. |
 | [rohunvora/x-research-skill](https://github.com/rohunvora/x-research-skill) | 1.1k ⭐ | X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings. |
 | [AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw) | 1k ⭐ | Let Skills Evolve Collectively with Agentic Evolver |
+| [fillfolio/portfolio-mcp-skills](https://github.com/fillfolio/portfolio-mcp-skills) | ![GitHub stars](https://img.shields.io/github/stars/fillfolio/portfolio-mcp-skills?style=flat) | 用于只读检视 Fillfolio 已储存投资组合、持仓、现金、支出和预算的 SKILL.md 工作流。财务工作流需要符合条件的账户及受支持的 MCP 连接。 |
 
 ## ⚡ Claude Code 优化
 
@@ -235,6 +236,7 @@
 | [YuzeHao2023/Awesome-MCP-Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers) | 1k ⭐ | A curated list of Model Context Protocol (MCP) servers |
 | [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) | 1k ⭐ | A Model Context Protocol (MCP) server that provides web search capabilities through DuckDuckGo, with additional features for content fetching and parsing. |
 | [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) | 1k ⭐ | A Model Context Protocol server to connect to MongoDB databases and MongoDB Atlas Clusters. |
+| [fillfolio/portfolio-mcp](https://github.com/fillfolio/portfolio-mcp) | ![GitHub stars](https://img.shields.io/github/stars/fillfolio/portfolio-mcp?style=flat) | Fillfolio 托管只读投资组合与支出 MCP 服务的公开协议、客户端示例和传输辅助工具；托管服务实现为私有代码。 |
 
 ## 🤖 智能体框架与编排
 
