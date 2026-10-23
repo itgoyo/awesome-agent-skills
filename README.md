@@ -235,6 +235,7 @@
 | [YuzeHao2023/Awesome-MCP-Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers) | 1k ⭐ | A curated list of Model Context Protocol (MCP) servers |
 | [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) | 1k ⭐ | A Model Context Protocol (MCP) server that provides web search capabilities through DuckDuckGo, with additional features for content fetching and parsing. |
 | [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) | 1k ⭐ | A Model Context Protocol server to connect to MongoDB databases and MongoDB Atlas Clusters. |
+| [doomsday-network/doomsday](https://github.com/doomsday-network/doomsday) | 8 ⭐ | Self-custodial Layer-1 `DOOM` & Base Mainnet `wDOOM` (`0x623c84A5E04bF715018203334b0eFE41696eBC3E`) Agent Skill (`SKILL.md`) and 12-tool Model Context Protocol (MCP) server for replay-proof agent-to-agent crypto invoicing, PoW faucet claims, and GitHub bounty Proof-of-Escrow verification. |
 
 ## 🤖 Agent Frameworks & Harnesses
 
