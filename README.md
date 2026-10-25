@@ -346,3 +346,5 @@ This project is licensed under [Creative Commons Attribution 4.0 International (
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 Contributions via issues or pull requests are welcome!
+
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - Non-custodial 3-line Web3 checkout widget, REST API, and remote MCP payment receipt verifier (`wDOOM` on Base Mainnet & `DOOM` Layer-1).
