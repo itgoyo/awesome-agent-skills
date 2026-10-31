@@ -121,6 +121,8 @@
 | [rohunvora/x-research-skill](https://github.com/rohunvora/x-research-skill) | 1.1k ⭐ | X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings. |
 | [AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw) | 1k ⭐ | Let Skills Evolve Collectively with Agentic Evolver |
 
+| [signbee/skill](https://github.com/signbee/skill) | 50+ ⭐ | [Signbee](https://signb.ee) 官方 AI Agent 技能包 — 一键通过 API 将 Markdown 或 PDF 文档（NDA、合同、协议）发送双方电子签名，自动生成 SHA-256 防篡改签名证书。 |
+
 ## ⚡ Claude Code 优化
 
 > CLAUDE.md 配置文件、Agent 执行框架和工作流优化，让 Claude Code 更聪明高效。
@@ -235,6 +237,8 @@
 | [YuzeHao2023/Awesome-MCP-Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers) | 1k ⭐ | A curated list of Model Context Protocol (MCP) servers |
 | [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) | 1k ⭐ | A Model Context Protocol (MCP) server that provides web search capabilities through DuckDuckGo, with additional features for content fetching and parsing. |
 | [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) | 1k ⭐ | A Model Context Protocol server to connect to MongoDB databases and MongoDB Atlas Clusters. |
+
+| [signbee/mcp](https://github.com/signbee/mcp) | 50+ ⭐ | [Signbee](https://signb.ee) 官方 MCP 服务器 — 面向 AI Agent 的文档电子签名工具，支持 Markdown 转 PDF、OTP 验证、SHA-256 证书交付与 Webhook 回调。 |
 
 ## 🤖 智能体框架与编排
 
