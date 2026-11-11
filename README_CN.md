@@ -113,6 +113,7 @@
 | [badlogic/pi-skills](https://github.com/badlogic/pi-skills) | 1.4k ⭐ | Skills for pi coding agent (compatible with Claude Code and Codex CLI) |
 | [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) | 1.4k ⭐ | 🧑‍🎨 A collection of Golang agentic skills that works |
 | [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) | 1.4k ⭐ | 20 SEO & GEO skills for Claude Code, Cursor, Codex, and 35+ AI agents. Keyword research, content writing, technical audits, rank tracking. CORE-EEAT + CITE frameworks. |
+| [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) | 1.4k ⭐ | 面向 Amazon、Shopify、TikTok Shop 等平台的电商 Agent Skills，覆盖选品、营销与运营。 |
 | [iamzhihuix/skills-manage](https://github.com/iamzhihuix/skills-manage) | 1.3k ⭐ | Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place. |
 | [huangserva/skill-prompt-generator](https://github.com/huangserva/skill-prompt-generator) | 1.3k ⭐ | 这是一个基于Claude Skill的**AI人像Prompt生成系统**，能够从特征库中智能组合生成高质量的人像描述Prompt，并具备自动学习和库扩展能力。 核心能力: Prompt生成、特征提取、自动学习、智能审核、版本控制 |
 | [skills-directory/skill-codex](https://github.com/skills-directory/skill-codex) | 1.2k ⭐ | A claude code skill to delegate prompts to codex |
@@ -120,6 +121,7 @@
 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | 1.1k ⭐ | Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. |
 | [rohunvora/x-research-skill](https://github.com/rohunvora/x-research-skill) | 1.1k ⭐ | X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings. |
 | [AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw) | 1k ⭐ | Let Skills Evolve Collectively with Agentic Evolver |
+| [nexscope-ai/Amazon-Skills](https://github.com/nexscope-ai/Amazon-Skills) | 863 ⭐ | 面向亚马逊卖家的免费 Agent Skills，覆盖关键词研究、竞品分析与 Listing 诊断。 |
 
 ## ⚡ Claude Code 优化
 
