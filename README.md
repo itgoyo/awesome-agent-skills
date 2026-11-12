@@ -336,6 +336,7 @@
 | [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) | 3.5k ⭐ | Curated list of awesome Cursor Rules .mdc files |
 | [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) | 1.5k ⭐ | The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+400,000 via SkillKit), 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more. |
 | [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) | 1.2k ⭐ | A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents |
+| [laolaoshiren/claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) | 908 ⭐ | A curated collection of 438+ Claude Code skills for Chinese developers, with 20 original Chinese skills and a searchable website at claude-skills.bt199.com |
 
 ---
 
