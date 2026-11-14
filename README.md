@@ -63,6 +63,7 @@
 | [anthropics/skills](https://github.com/anthropics/skills) | Anthropic's official open-source skills repo with production-grade examples |
 | [aitmpl.com/skills](https://www.aitmpl.com/skills) | Another skills aggregation site with categorized browsing and search |
 | [claudemarketplaces.com](https://claudemarketplaces.com/) | Claude-focused skills marketplace for high-quality community skills |
+| [hol.org/plugins](https://hol.org/plugins) | HOL Plugins, a directory for discovering AI coding plugins, skills, and MCP servers across Claude Code, Codex, Cursor and more, ranked by trust score |
 
 ---
 
