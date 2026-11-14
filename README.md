@@ -121,6 +121,8 @@
 | [rohunvora/x-research-skill](https://github.com/rohunvora/x-research-skill) | 1.1k ⭐ | X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings. |
 | [AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw) | 1k ⭐ | Let Skills Evolve Collectively with Agentic Evolver |
 
+| [inhotel-io/govisit-toolkit](https://github.com/inhotel-io/govisit-toolkit) | 2 ⭐ | MIT-licensed toolkit of 22 portable Agent Skills for GoVisit travel discovery, plus MCP integration resources. Not the hosted MCP server implementation. |
+
 ## ⚡ Claude Code Optimization
 
 > CLAUDE.md configs, harness systems, and workflows that make Claude Code smarter and faster.
