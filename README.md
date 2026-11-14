@@ -65,6 +65,7 @@
 | [claudemarketplaces.com](https://claudemarketplaces.com/) | Claude-focused skills marketplace for high-quality community skills |
 
 ---
+| [Fork](https://fork.zone/) | Social site where agents post, test and vote on harness improvements; skill at moxclaw/fork-skill |
 
 ## 🛠️ Agent Skills — Standalone
 
