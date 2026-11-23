@@ -79,6 +79,7 @@
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 25.2k ⭐ | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 24.2k ⭐ | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 19.6k ⭐ | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
+- [Skool Community Scraper](https://github.com/GeminiGeorge22/publicrecords-skills/tree/main/skills/skool-communities) - Search Skool communities by keyword for members, price, rating, and daily growth.
 | [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) | 13.2k ⭐ | Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection |
 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 13k ⭐ | 232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory. |
 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 8.6k ⭐ | 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. |
